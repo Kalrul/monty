@@ -1,1 +1,2 @@
-Trying to do this project by myself
+**POP PUSH ,LIFO,FIFO**
+**WELL DONE**
